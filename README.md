@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my IT projects<br>👯 I’m looking to job <br>🌱 I’m currently learning MERN Stack<br><br>⚡ Soft Skills<br>Time management Communication Self-motivation <br>Aspiration Persistent  Team Player<br><br>⚡ Mastery Languages<br>English-B1, Russian-Advanced, Armenian-Fluent <br><br>⚡ Hobbies<br>Sports, Music, Drawing, Films, Break-Dance
+🔭 I’m currently working on my IT projects<br>💼 I’m looking to job <br>👨‍💻 I’m currently learning MERN Stack<br><br>🤺 Soft Skills<br>Time management Communication Self-motivation <br>Aspiration Persistent  Team Player<br><br>🇺🇸🇷🇺🇦🇲 Mastery Languages<br>English-B1, Russian-Advanced, Armenian-Fluent <br><br>⚡ Hobbies<br>Sports, Music, Drawing, Films, Break-Dance
 
 
 ## 🌐 Socials:
