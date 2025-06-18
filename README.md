@@ -7,7 +7,7 @@ Currently contributing to high-quality projects at BoomTech, refining my skills 
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?logo=About.me&logoColor=white)](https://chipper-monstera-69c32f.netlify.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?logo=About.me&logoColor=white)](https://erikharutyunyanportfolio.netlify.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-harutyunyan-2588a9226/) 
 
 # 💻 Tech Stack:
