@@ -1,7 +1,7 @@
 # 💫 About Me:
 Frontend Developer with two years of experience, specializing in building user-friendly and scalable web applications.<br><br>
 Strong expertise in React and modern frontend technologies, with hands-on experience in the MERN stack.<br><br>
-Passionate about improving UI/UX and creating efficient, maintainable code.<br><br>
+Passionate about improving UI/UX and creating efficient, maintainable code.
 <br><br>🤺 Soft Skills<br>Time management Communication Self-motivation <br>Aspiration Persistent  Team Player<br><br>🇺🇸🇷🇺🇦🇲 Mastery Languages<br>English-B1, Russian-Advanced, Armenian-Fluent <br><br>⚡ Hobbies<br>Sports, Music, Drawing, Films, Break-Dance
 
 ## 🌐 Socials:
