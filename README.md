@@ -1,10 +1,8 @@
 # 💫 About Me:
-Frontend Developer with two years of experience, specializing in building user-friendly and<br><br>
-scalable web applications. Strong expertise in React and modern frontend technologies, with hands-on experience in the MERN stack.<br><br>
+Frontend Developer with two years of experience, specializing in building user-friendly and scalable web applications.<br><br>
+Strong expertise in React and modern frontend technologies, with hands-on experience in the MERN stack.<br><br>
 Passionate about improving UI/UX and creating efficient, maintainable code.<br><br>
-Currently contributing to high-quality projects at BoomTech, refining my skills and expertise in Front-end development.<br><be>
 <br><br>🤺 Soft Skills<br>Time management Communication Self-motivation <br>Aspiration Persistent  Team Player<br><br>🇺🇸🇷🇺🇦🇲 Mastery Languages<br>English-B1, Russian-Advanced, Armenian-Fluent <br><br>⚡ Hobbies<br>Sports, Music, Drawing, Films, Break-Dance
-
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?logo=About.me&logoColor=white)](https://erikharutyunyanportfolio.netlify.app/)  
